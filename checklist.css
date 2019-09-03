@@ -1,0 +1,22 @@
+
+
+		img {
+			width:100px;
+		}
+		h3 {
+			font-size: 125%;
+		}
+		h2 {
+			font-size: 150%;
+			border-bottom: 1px solid #000;
+			margin: 1rem 0;
+			font-weight: bold;
+			text-transform: uppercase;
+		}
+		h1 {
+			font-size:250%;
+			margin: 1rem 0 0 0;
+		}
+		div.row {
+			margin:1rem 0;
+		}
